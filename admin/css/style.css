@@ -1,0 +1,96 @@
+body {
+  overflow-x: hidden;
+}
+
+header {
+        background: #333;
+        padding: 20px;
+}
+
+.site-title span {
+  margin-right: 10px;
+}
+
+#logout {
+  margin-top: 15px;
+}
+
+#main-row {
+ 
+}
+
+.sidebar {
+  background: #333;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 15px;
+}
+
+.sidebar ul li {
+  background: #666;
+  margin-bottom: 5px;
+}
+
+.sidebar ul li a {
+  color: #080808;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  padding: 15px;
+}
+
+.page-heading {
+  background: #eee;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+.success-msg {
+  color: #A6CE39;        
+}
+
+.table-striped {
+  background: #eee;
+}
+
+thead .th-width {
+  min-width: 150px;
+}
+
+.login {
+ 
+}
+
+.success-msg {
+  color: #A6CE39;        
+}
+
+form {
+    margin-bottom: 10px;
+    background: #8a6d3b;
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid #333;
+}
+
+#main-container {
+  min-height: 480px;
+}
+
+label.col-sm-2.control-label {
+    text-align: center;
+    background: #333;
+    color: #ddd;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.edit-image {
+  margin-top: 10px;
+}
+
+.admin-logged {
+  text-transform: capitalize;
+}
